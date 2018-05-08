@@ -133,8 +133,4 @@ class Game:
             pass
 
 
-player1 = Card('Жорик', is_computer=False)
-player2 = Card(is_computer=True)
 
-game = Game()
-game.play(player1, player2)
